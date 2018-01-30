@@ -1,4 +1,4 @@
-# 'Food Composition Cahtbot' / Tells % content of fats, carbohydrates and proteins in the food you specify
+# 'Food Composition Chatbot' / Tells % content of fats, carbohydrates and proteins in the food you specify
 
 As an extension of my <b>Food Composition miniproject</b> (<a href="https://github.com/IuriiD/food_composition">github</a>, <a href="http://35.204.85.225/" target="_blank">demo</a>) I created a simple chatbot on <a href="https://dialogflow.com/">dialogflow.com</a> platform.
 Here is the webhook code for it.
