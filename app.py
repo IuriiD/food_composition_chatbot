@@ -114,7 +114,7 @@ def webhook():
             'contextOut': req['result']['contexts']
         }
     else:
-        # If the request is not to the translate.text action throw an error
+        # If the request is not to the foodcomposition action throw an error
         res = {
             'speech': 'Something wrong happened',
             'displayText': 'Something wrong happened'
