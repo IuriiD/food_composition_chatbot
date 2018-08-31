@@ -7,7 +7,7 @@ Here is the webhook code for it.
 
 In case for whatever reason the chatbot is not accessible here's a screenshot to provide the general idea of what it does:
 <p>
-    <a href="https://github.com/IuriiD/IuriiD.github.io/blob/master/img/fcc_1.jpg" target="_blank"><img src="https://github.com/IuriiD/IuriiD.github.io/blob/master/img/fcc_1.jpg" class="img-fluid img-thumbnail" style="max-width: 350px"></a>
+    <a href="https://iuriid.github.io/public/img/fcc_1.jpg" target="_blank"><img src="https://iuriid.github.io/public/img/fcc_1.jpg" class="img-fluid img-thumbnail" style="max-width: 350px"></a>
 </p>
 
 
